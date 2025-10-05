@@ -183,14 +183,13 @@ Our analysis demonstrates that **multi-polarization SAR can classify surface typ
 - [7-slide presentation](presentation/slides.md)
 - [Technical methodology](TECHNICAL.md)
 
-🎥 **Optional:** [60-second demo video](#) (if created)
 
 ---
 
 ## How to Explore This Project
 
 ### Quick Start (5 minutes)
-1. Open `outputs/nasa_map_complete.html` in your browser
+1. Open `outputs/nasa_map_complete.html` in your browser (present available in google drive due to large capacity of 425Mb)
 2. Toggle between May 2024, Nov 2024, and Sept 2025 layers
 3. Click eruption markers to see timeline
 4. Read the [narrative document](outputs/narrative_final.md) for full story
