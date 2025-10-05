@@ -179,7 +179,7 @@ Our analysis demonstrates that **multi-polarization SAR can classify surface typ
 - Web app screenshots and workflow diagrams
 
 📝 **Documentation:**
-- [Alice in Wonderland-themed narrative](outputs/narrative_final.md)
+- [Alice in Wonderland-themed narrative](src/alice_story_outline_final.md)
 - [7-slide presentation](presentation/slides.md)
 - [Technical methodology](TECHNICAL.md)
 
@@ -192,7 +192,7 @@ Our analysis demonstrates that **multi-polarization SAR can classify surface typ
 1. Open `outputs/nasa_map_complete.html` in your browser (present available in google drive due to large capacity of 425Mb)
 2. Toggle between May 2024, Nov 2024, and Sept 2025 layers
 3. Click eruption markers to see timeline
-4. Read the [narrative document](outputs/narrative_final.md) for full story
+4. Read the [narrative document](src/narrative_final.md) for full story
 
 ### For Technical Details
 See [TECHNICAL.md](TECHNICAL.md) for:
@@ -218,7 +218,7 @@ Like Alice following the White Rabbit, we followed radar pulses through Iceland'
 - **VH polarization** = the "whisper" of structure (volume scatter)
 - **VH/VV ratio** = the "looking glass" revealing true nature
 
-Read the full [Alice-themed narrative](outputs/narrative_final.md) to see how SAR becomes a journey through Wonderland.
+Read the full [Alice-themed narrative](src/alice_story_outline_final.md) to see how SAR becomes a journey through Wonderland.
 
 ---
 
@@ -252,18 +252,6 @@ Read the full [Alice-themed narrative](outputs/narrative_final.md) to see how SA
 - Eruption timeline: Icelandic Met Office, Guide to Iceland
 
 **Inspiration:** Lewis Carroll's *Alice's Adventures in Wonderland* (1865)
-
----
-
-## Contact & Links
-
-📂 **GitHub Repository:** [Link to your repo]
-
-🌐 **Interactive Map:** [Live demo link if hosted]
-
-📧 **Contact:** [Your email/info]
-
-🏆 **NASA Space Apps:** [Your submission page]
 
 ---
 
