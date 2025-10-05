@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.netrc
+
+# Data and outputs (keep repo light)
+data/
+outputs/
+!data/.gitkeep
+!outputs/.gitkeep
+!outputs/narrative_final.md
+
+# Large downloads
+*.zip

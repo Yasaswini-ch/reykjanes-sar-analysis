@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reykjanes Peninsula"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-22.70, 63.80],
+            [-22.00, 63.80],
+            [-22.00, 64.10],
+            [-22.70, 64.10],
+            [-22.70, 63.80]
+          ]
+        ]
+      }
+    }
+  ]
+}
