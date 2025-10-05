@@ -46,7 +46,6 @@ Like Alice tumbling down the rabbit hole, we used **Synthetic Aperture Radar (SA
 
 By computing the **VH/VV ratio**, we could distinguish surface types that look identical to the human eye:
 
-![VH/VV Ratio Map](outputs/ratio_post_nov2024.tif)
 
 | Surface Type | VH/VV Ratio | What This Means |
 |--------------|-------------|-----------------|
@@ -93,14 +92,16 @@ We created an interactive web map so anyone can explore the data themselves:
 *The map works in fullscreen mode for detailed exploration*
 *Toggle between dates, zoom into eruption zones, and see the Alice in Wonderland-themed narrative*
 
-### **[👉 Open the Interactive Map](outputs/nasa_map_complete.html)**
+## Interactive Visualization
+
+**[View Interactive SAR Analysis Map](https://drive.google.com/file/d/1OnHGhk7dkJKwavKSHWLHnZsh37CMusEh/view?usp=sharing)**
 
 Features:
-- Layer toggles for different time periods
-- Eruption markers with timeline information
-- VH/VV ratio and change detection overlays
-- Coordinate display and fullscreen mode
-
+- Multiple toggleable data layers (change detection and VH/VV ratio maps)
+- Clickable eruption markers with event details (dates, locations, volumes)
+- Timeline panel showing 2024-2025 eruption sequence
+- NASA-themed mission control interface
+- Coordinate display and navigation tools
 ---
 
 ## Why This Matters
