@@ -1,0 +1,2 @@
+delta_mean,delta_std,pre,post
+-0.08118695765733719,2.162705183029175,outputs/ratio_pre_may2024.tif,outputs/ratio_post_nov2024.tif
