@@ -1,6 +1,7 @@
 # Through the Radar Looking Glass 🌋
 
 ## When Clouds Hide the Truth, Radar Reveals It
+[![NASA Complete Map](https://img.shields.io/badge/Live-View-blue)](https://reykjanes.netlify.app/)
 
 ![Project Hero Image](outputs/comparison_may2024_nov2024.png)
 *Reykjanes Peninsula, Iceland: SAR reveals what optical satellites cannot see*
