@@ -95,7 +95,7 @@ We created an interactive web map so anyone can explore the data themselves:
 
 ## Interactive Visualization
 
-**[View Interactive SAR Analysis Map](https://drive.google.com/file/d/1OnHGhk7dkJKwavKSHWLHnZsh37CMusEh/view?usp=sharing)**
+**[View Interactive SAR Analysis Map](https://reykjanes.netlify.app/)**
 
 Features:
 - Multiple toggleable data layers (change detection and VH/VV ratio maps)
